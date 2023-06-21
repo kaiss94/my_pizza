@@ -59,9 +59,11 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+        'sauce': 'tomato'
     },
     'djerbienne': {
         'ingredients': {'mozzarella': 3, 'pepper': 5, 'onion': 5, 'ham': 4},
         'price': 12,
+        'sauce': 'tomato'
     }
 }
